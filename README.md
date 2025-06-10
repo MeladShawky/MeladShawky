@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+<!-- Custom Hello with your name -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7B801&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Milad+Shawky!;Flutter+Developer+%7C+Dart+Lover;I+build+beautiful+mobile+apps" alt="Typing SVG" /><br>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 </div>
@@ -48,6 +50,7 @@ class FlutterDev {
     "SQLite",
     "REST APIs",
     "Clean Architecture",
+    "Mvvm"
     "BLoC",
     "Git",
   ];
