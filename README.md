@@ -1,43 +1,38 @@
-<div align="center">
+<div align="center" width="50">
 
-<!-- Custom Hello with your name -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7B801&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Milad+Shawky!;Flutter+Developer+%7C+Dart+Lover;I+build+beautiful+mobile+apps" alt="Typing SVG" /><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7B801&center=true&vCenter=true&width=650&lines=Building+beautiful+apps+with+Flutter;I'm+Milad+Shawky;Dart+%7C+Flutter+%7C+Clean+Architecture" alt="Typing SVG" />
+
+![Totals Hits](https://komarev.com/ghpvc/?username=MiladShawky&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMiladShawky&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
 </div>
 
----
+<hr/>
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
-Hi, I'm **Milad Shawky**, a passionate **Flutter Developer** from Egypt 🇪🇬  
-I specialize in building **modern, fast, and beautiful** mobile applications using **Flutter & Dart**.  
-I focus on **clean architecture**, **state management with BLoC**, and building scalable app structures.  
-I'm always learning and improving my skills in software architecture, performance, and design.
-
-- 🔥 Strong in **Algorithms & Data Structures**
-- 💙 Love turning UI designs into pixel-perfect Flutter apps
-- 🔧 Working with **Firebase**, **REST APIs**, and **SQLite**
-- 🧠 Obsessed with writing **clean and maintainable code**
-- 🛠️ Always exploring tools to optimize my workflow
-- 🗨️ Ask me about anything related to **Flutter, Dart, or BLoC**
+- 💻 I'm a passionate **Flutter developer** with strong knowledge in **Dart**, **Clean Architecture**, and **State Management (BLoC / MVVM)**.
+- 🎯 Interested in **algorithms** and **data structures**.
+- 🧪 I enjoy building modern, scalable mobile apps and learning new tools & technologies.
+- 🚀 Currently working on **church family app** project with full modern UI & API integration.
+- 🌐 Love solving problems and contributing to open-source when I can.
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Tools I Use
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
----
 
-```dart
+```
 // About Me as Code
 
 class FlutterDev {
